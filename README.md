@@ -1,0 +1,1 @@
+Movie Star Filmography Finder is a Python-based project that takes the name of a movie star as input and returns a file containing a list of all the movies that star has appeared in, along with detailed information about each movie. This project utilizes web scraping techniques to gather data from online sources.
